@@ -24,7 +24,7 @@
 
 **Thoughts:** 
 <!-- - This was a bit challenging. But, I could go through this quite soon because I had some experience with CSS before. -->
-- I completed all 28 levels of Grid Garden. But I was stuck at the 28th level. I had to take some help to understand it better. I faced difficulty in the 26th level too but I could solve it on my own. Therefore, I will repeat the last few levels of this game again.
+- I completed all 28 levels of Grid Garden. But I was stuck at the 28th level. I had to take some help to understand it better. I faced difficulty in the 26th level too but I could solve it on my own. Therefore, I will repeat the last few levels of this game again tomorrow.
 
 **Link to work:**
 <!-- - [Responsive Web Design](https://github.com/ckvignesh/FreeCodeCamp/tree/master/Responsive%20Web%20Design/CSS) -->
