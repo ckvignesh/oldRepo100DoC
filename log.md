@@ -1,5 +1,6 @@
 # 100 Days Of Code - Log
 
+***
 ### Day 0: October 25, 2021
 
 **Today's Progress:**
@@ -14,6 +15,7 @@
 - [Responsive Web Design](https://github.com/ckvignesh/FreeCodeCamp/tree/master/Responsive%20Web%20Design/CSS)
 - [Flexbox Froggy](https://github.com/ckvignesh/flexboxFroggySolution)
 
+***
 ### Day 1: October 26, 2021
 
 **Today's Progress:**
@@ -28,7 +30,7 @@
 <!-- - [Responsive Web Design](https://github.com/ckvignesh/FreeCodeCamp/tree/master/Responsive%20Web%20Design/CSS) -->
 - [Grid Garden](https://github.com/ckvignesh/gridGardenSolution)
 
-
+***
 
 
 
