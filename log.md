@@ -19,7 +19,7 @@
 ### Day 1: October 26, 2021
 
 **Today's Progress:**
-- Finished 17/52 in the Applied Visual Design of RWD Certification on freeCodeCamp.
+- Finished 28/52 in the Applied Visual Design of RWD Certification on freeCodeCamp.
 - Finished all the levels of Grid Garden game.
 - Learnt that "***" is used for drawing a line in the markdown.
 
@@ -34,7 +34,24 @@
   
 ***
 
+### Day 2: October 27, 2021
 
+**Today's Progress:**
+- Finished 30/52 in the Applied Visual Design of RWD Certification on freeCodeCamp.
+- Made an Open Source contribution in the Open Product Management Repo.
+- Studied the use of Var, Let and Const in JS.
+
+**Thoughts:** 
+I could do only one hour of coding today. It was a low in my graph of this challenge. Nor did I play any code game.
+- Learnt how to use the Hue and transparency adjustments in CSS from the freeCodeCamp course.
+- Made my second Open Source contribution in the Open Product Management Repo. Added some missing links and raised a PR. Waiting for its status to get updated.
+- Var is globally scoped, Let and Const are block scoped. Var can be declared and updated but it can mess with the code if its a longer one as the values may get messed up. Let and Const are preferrable. Let can be updated but not declared again and it need not be initialised. Const cannot be updated or declared again and it needs to be initialised.
+
+**Link to work:**
+- [Responsive Web Design](https://github.com/ckvignesh/FreeCodeCamp/tree/master/Responsive%20Web%20Design/CSS)
+- [Open Product Management Pull Request](https://github.com/ProductHired/open-product-management/pull/100)
+  
+***
 
 
 
