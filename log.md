@@ -53,7 +53,29 @@ I could do only one hour of coding today. It was a low in my graph of this chall
   
 ***
 
+### Day 3: October 28, 2021
 
+**Today's Progress:**
+- Solved all 12 Levels of Flexbox Defense Game.
+- Reviewed and accepted some Open Source contributions.
+- Made an OS Contribution.
+- Added some features to a public Repo.
+- Learnt about the break tag and code notation(``) in Markdown.
+
+**Thoughts:** 
+- After enough practise, CSS Games have become easy to solve. Now I must focus more on making some real projects. I can schedule games for weekends or during any other free time.
+- I got a PR from an online friend who's also studying coding with me. Doing Open Source has taught me a lot and I could also review and edit code, handle issues and merge the PR.
+- I added a small part to the documentation by specifying that the program could be run on any port by adding the number before it.
+- I forked a simple quiz repo and added some features to it (like change in score patterns). It was in Next Js and Tailwind CSS. Though I knew nothing about both, I was able to handle it since I had worked on CSS and React before. I also raised an issue regarding this.
+- The Open Source Contributions also taught me about the break tag and the coding format (``). This was from the contributions in the PRs I got.
+
+**Link to work:**
+- [Flexbox Defense](https://github.com/ckvignesh/flexBoxDefense)
+- The Pull Requests: ![](Photos/Pull%20Requests%201.png)
+- [Open Source Contribution](https://github.com/akramkazmi71/hacktoberfest-xrepos/pull/61). It was accepted, too! Check this: ![](/Photos/PR%20Merged%201.png)
+- [Quiz Repo Display edits](https://github.com/ckvignesh/quizz-game/commits/Suggestions) and [Quiz Repo Logic edits](https://github.com/ckvignesh/quizz-game/commits/nonNegativeMarking).
+  
+***
 
 
 
