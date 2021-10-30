@@ -94,7 +94,7 @@ From now, my plan would be to study JS along with HTML, CSS and the rest of the 
 - Learnt more features of Markdown files like adding index tables, sectional link, aligning text in boxes etc.
 
 **Thoughts:** 
-- Today's progresss was very slow and poor. 
+- Today's progress was very slow and poor. 
 
 **Link to work:**
 - [This markdown file you're reading now.](log.md)
