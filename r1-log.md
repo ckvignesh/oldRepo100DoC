@@ -25,3 +25,6 @@ The log of my #100DaysOfCode challenge. Started on [October 25, Monday, 2021]. Y
 - The Pull Requests: ![](Photos/Pull%20Requests%201.png)
 - [Open Source Contribution](https://github.com/akramkazmi71/hacktoberfest-xrepos/pull/61). It was accepted, too! Check this: ![](/Photos/PR%20Merged%201.png)
 - [Quiz Repo Display edits](https://github.com/ckvignesh/quizz-game/commits/Suggestions) and [Quiz Repo Logic edits](https://github.com/ckvignesh/quizz-game/commits/nonNegativeMarking).
+
+### R1D5 October 29, 2021
+- [This markdown file you're reading now.](log.md)
