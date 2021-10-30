@@ -1,6 +1,15 @@
 # 100 Days Of Code - Log
 
 ***
+|**Round**| **Day**|                                    **Topics**                                |
+|:-------:|:------:| :---------------------------------------------------------------------------:|
+| 1       |      0 |  [CSS - fCC & flexbox froggy](#day-0-october-25-2021)                        |
+| 1       |      1 |  [CSS - fCC & grid garden](#day-1-october-26-2021)                           |
+| 1       |      2 |  [CSS - fCC & FOSS Contribution](#day-2-october-27-2021)                     |
+| 1       |      3 |  [CSS - Flexbox defense & FOSS Contribution](#day-3-october-28-2021)         |
+| 1       |      4 |  [Js - Asabeneh & CSS - fCC](#day-4-october-29-2021)                         |
+| 1       |        |                                                                              |
+| 1       |        |                                                                              |
 ### Day 0: October 25, 2021
 
 **Today's Progress:**
@@ -48,7 +57,7 @@ I could do only one hour of coding today. It was a low in my graph of this chall
 - Var is globally scoped, Let and Const are block scoped. Var can be declared and updated but it can mess with the code if its a longer one as the values may get messed up. Let and Const are preferrable. Let can be updated but not declared again and it need not be initialised. Const cannot be updated or declared again and it needs to be initialised.
 
 **Link to work:**
-- [Responsive Web Design](https://github.com/ckvignesh/FreeCodeCamp/tree/master/Responsive%20Web%20Design/CSS)
+- [Responsive Web Design](https://github.com/ckvignesh/FreeCodeCamp/tree/master/Responsive%20Web%20Design/Applied%20Visual%20Design)
 - [Open Product Management Pull Request](https://github.com/ProductHired/open-product-management/pull/100)
   
 ***
@@ -77,7 +86,19 @@ I could do only one hour of coding today. It was a low in my graph of this chall
   
 ***
 
+### Day 4: October 29, 2021
 
+From now, my plan would be to study JS along with HTML, CSS and the rest of the RWD fCC certification. Putting off CSS games for now.
+
+**Today's Progress:**
+- Learnt more features of Markdown files like adding index tables, sectional link, aligning text in boxes etc.
+
+**Thoughts:** 
+- Today's progresss was very slow and poor. 
+
+**Link to work:**
+- [This markdown file you're reading now.](log.md)
+***
 
 
 <!-- ### Day 1: October 26, 2021
