@@ -7,7 +7,7 @@
 | 1       |      1 |  [CSS - fCC & grid garden](#day-1-october-26-2021)                           |
 | 1       |      2 |  [CSS - fCC & FOSS Contribution](#day-2-october-27-2021)                     |
 | 1       |      3 |  [CSS - Flexbox defense & FOSS Contribution](#day-3-october-28-2021)         |
-| 1       |      4 |  [Js - Asabeneh & CSS - fCC](#day-4-october-29-2021)                         |
+| 1       |      4 |  [Markdown file formatting](#day-4-october-29-2021)                          |
 | 1       |        |                                                                              |
 | 1       |        |                                                                              |
 ### Day 0: October 25, 2021
