@@ -8,8 +8,9 @@
 | 1       |      2 |  [CSS - fCC & FOSS Contribution](#day-2-october-27-2021)                     |
 | 1       |      3 |  [CSS - Flexbox defense & FOSS Contribution](#day-3-october-28-2021)         |
 | 1       |      4 |  [Markdown file formatting](#day-4-october-29-2021)                          |
+| 1       |      5 |  [HTML - fCC revision](#day-5-october-30-2021)                               |
 | 1       |        |                                                                              |
-| 1       |        |                                                                              |
+
 ### Day 0: October 25, 2021
 
 **Today's Progress:**
@@ -108,8 +109,8 @@ Today was also very slow. I had a busy day.
 - Raised an issue on Github for a deployment that was not working
 
 **Link to work:**
-- This: ![](Photos/HTML.png)
-- [Issue](https://github.com/fefong/markdown_readme/issues/2)
+- This: ![](Photos/HTML.png) <br /> and [this](https://github.com/ckvignesh/FreeCodeCamp/tree/master/Responsive%20Web%20Design/HTML).
+- [Issue Raised](https://github.com/fefong/markdown_readme/issues/2).
 ***
 
 <!-- ### Day X: date, year
