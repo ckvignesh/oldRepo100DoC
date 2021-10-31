@@ -100,6 +100,35 @@ From now, my plan would be to study JS along with HTML, CSS and the rest of the 
 - [This markdown file you're reading now.](log.md)
 ***
 
+### Day 5: October 30, 2021
+Today was also very slow. I had a busy day.
+
+**Today's Progress:**
+- Re did the HTML course of fCC RWD Cert as I felt I lost touch.
+- Raised an issue on Github for a deployment that was not working
+
+**Link to work:**
+- This: ![](Photos/HTML.png)
+- [Issue](https://github.com/fefong/markdown_readme/issues/2)
+***
+
+<!-- ### Day X: date, year
+
+**Today's Progress:**
+- 
+
+**Link to work:**
+- 
+***
+
+### Day X: date, year
+
+**Today's Progress:**
+- 
+
+**Link to work:**
+- 
+*** -->
 
 <!-- ### Day 1: October 26, 2021
 
