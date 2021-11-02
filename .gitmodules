@@ -4,3 +4,6 @@
 [submodule "Projects/randomJokeGenerator"]
 	path = Projects/randomJokeGenerator
 	url = https://github.com/ckvignesh/randomJokeGenerator
+[submodule "Projects/ckvignesh"]
+	path = Projects/ckvignesh
+	url = https://github.com/ckvignesh/ckvignesh.git
