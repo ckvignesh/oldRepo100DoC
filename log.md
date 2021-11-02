@@ -4,15 +4,15 @@
 ***
 |**Round**| **Day**|                                    **Topics**                                |
 |:-------:|:------:| :---------------------------------------------------------------------------:|
-| 1       |      1 |  [CSS - fCC & flexbox froggy](#day-0-october-25-2021)                        |
-| 1       |      2 |  [CSS - fCC & grid garden](#day-1-october-26-2021)                           |
-| 1       |      3 |  [CSS - fCC & FOSS Contribution](#day-2-october-27-2021)                     |
-| 1       |      4 |  [CSS - Flexbox defense & FOSS Contribution](#day-3-october-28-2021)         |
-| 1       |      5 |  [Markdown file formatting](#day-4-october-29-2021)                          |
-| 1       |      6 |  [HTML - fCC revision](#day-5-october-30-2021)                               |
-| 1       |      7 |  [OS Contributions](#day-6-october-31-2021)                                  |
-| 1       |      8 |  [OS Contributions](#day-7-november-1-2021)                                  |
-| 1       |      9 |  [Github Profile](#day-7-november-1-2021)                                    |
+| 1       |      1 |  [CSS - fCC & flexbox froggy](#day-1-october-25-2021)                        |
+| 1       |      2 |  [CSS - fCC & grid garden](#day-2-october-26-2021)                           |
+| 1       |      3 |  [CSS - fCC & FOSS Contribution](#day-3-october-27-2021)                     |
+| 1       |      4 |  [CSS - Flexbox defense & FOSS Contribution](#day-4-october-28-2021)         |
+| 1       |      5 |  [Markdown file formatting](#day-5-october-29-2021)                          |
+| 1       |      6 |  [HTML - fCC revision](#day-6-october-30-2021)                               |
+| 1       |      7 |  [OS Contributions](#day-7-october-31-2021)                                  |
+| 1       |      8 |  [OS Contributions](#day-8-november-1-2021)                                  |
+| 1       |      9 |  [Github Profile](#day-9-november-2-2021)                                    |
 
 ### Day 1: October 25, 2021
 
