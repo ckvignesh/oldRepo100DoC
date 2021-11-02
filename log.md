@@ -9,7 +9,8 @@
 | 1       |      3 |  [CSS - Flexbox defense & FOSS Contribution](#day-3-october-28-2021)         |
 | 1       |      4 |  [Markdown file formatting](#day-4-october-29-2021)                          |
 | 1       |      5 |  [HTML - fCC revision](#day-5-october-30-2021)                               |
-| 1       |        |                                                                              |
+| 1       |      6 |  [OS Contributions](#day-6-october-31-2021)                                  |
+| 1       |      7 |  [OS Contributions](#day-7-november-1-2021)                                  |
 
 ### Day 0: October 25, 2021
 
@@ -106,7 +107,7 @@ Today was also very slow. I had a busy day.
 
 **Today's Progress:**
 - Re did the HTML course of fCC RWD Cert as I felt I lost touch.
-- Raised an issue on Github for a deployment that was not working
+- Raised an issue on Github for a deployment that was not working.
 
 **Link to work:**
 - This: ![](Photos/HTML.png) <br /> and [this](https://github.com/ckvignesh/FreeCodeCamp/tree/master/Responsive%20Web%20Design/HTML).
@@ -132,12 +133,16 @@ Today's the last day of #Hacktoberfest.
 Busy days ahead. But I'll spend some time doing OS Contributions though the #Hacktoberfest is officially over.
 
 **Today's Progress:**
-- Formatted some answers in an OS Repo md file & raised a PR.
+- Formatted some answers in an OS Repo md file & raised a PR. (BTW this is accepted now as on Nov 2nd)
 - Studied a bit of Javascript from Eloquent Javascript.
 
 **Link to work:**
 - [OS Commit](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes/pull/2589)
 - [OS Commit](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes/pull/2587)
+- PR Merged:
+  ![](Photos/Ebazhanov%201.png)
+
+  ![](Photos/Ebazhanov%202.png)
 ***
 
 <!-- ### Day 1: October 26, 2021
