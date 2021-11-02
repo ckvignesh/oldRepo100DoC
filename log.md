@@ -12,6 +12,7 @@
 | 1       |      6 |  [HTML - fCC revision](#day-5-october-30-2021)                               |
 | 1       |      7 |  [OS Contributions](#day-6-october-31-2021)                                  |
 | 1       |      8 |  [OS Contributions](#day-7-november-1-2021)                                  |
+| 1       |      9 |  [Github Profile](#day-7-november-1-2021)                                    |
 
 ### Day 1: October 25, 2021
 
@@ -111,7 +112,7 @@ Today was also very slow. I had a busy day.
 - Raised an issue on Github for a deployment that was not working.
 
 **Link to work:**
-- This: ![](Photos/HTML.png) <br /> and [this](https://github.com/ckvignesh/FreeCodeCamp/tree/master/Responsive%20Web%20Design/HTML).
+- This: ![](./Photos/Certificates/HTML.png) <br /> and [this](https://github.com/ckvignesh/FreeCodeCamp/tree/master/Responsive%20Web%20Design/HTML).
 - [Issue Raised](https://github.com/fefong/markdown_readme/issues/2).
 ***
 
@@ -145,3 +146,19 @@ Busy days ahead. But I'll spend some time doing OS Contributions though the #Hac
 
   ![](Photos/Ebazhanov%202.png)
 ***
+
+### Day 9: November 2, 2021
+
+I spent my day exploring new concepts in Github and how to implement them. Included a small test project that I'll be enhancing later in this challenge. My github page looks like this, now.
+![](./Photos/Git%20Page%202%20Nov%202021.png)
+
+**Today's Progress:**
+- I went through [Eddie Jaoude's free Github Course](https://www.eddiejaoude.io/course-github-profile/index) and improved my Github Page.
+- Also learnt about Github Submodules that I implemented in this Repo.
+
+**Link to work:**
+- [My github home page](https://github.com/ckvignesh/ckvignesh).
+  ![](./Photos/githubHomePageNov2.png)
+- The [Projects](./Projects/) folder I created in this Repo to map 2 projects I'm working on.
+- Certificate from [Eddie Jaoude's free Github Course](https://www.eddiejaoude.io/course-github-profile/index).
+  ![](./Photos/Certificates/Eddie%20Github%20Course.jpg)
