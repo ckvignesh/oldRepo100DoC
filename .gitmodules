@@ -1,3 +1,6 @@
 [submodule "Projects/FreeCodeCamp"]
 	path = Projects/FreeCodeCamp
 	url = https://github.com/ckvignesh/FreeCodeCamp
+[submodule "Projects/randomJokeGenerator"]
+	path = Projects/randomJokeGenerator
+	url = https://github.com/ckvignesh/randomJokeGenerator
