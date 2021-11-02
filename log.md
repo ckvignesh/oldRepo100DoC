@@ -136,6 +136,7 @@ Busy days ahead. But I'll spend some time doing OS Contributions though the #Hac
 
 **Today's Progress:**
 - Formatted some answers in an OS Repo md file & raised a PR. (BTW this is accepted now as on Nov 2nd)
+  Before:![](Photos/Before.png) <br /> After: ![](Photos/After.png)
 - Studied a bit of Javascript from Eloquent Javascript.
 
 **Link to work:**
@@ -160,5 +161,6 @@ I spent my day exploring new concepts in Github and how to implement them. Inclu
 - [My github home page](https://github.com/ckvignesh/ckvignesh).
   ![](./Photos/githubHomePageNov2.png)
 - The [Projects](./Projects/) folder I created in this Repo to map 2 projects I'm working on.
+  ![](Photos/Submodules.png)
 - Certificate from [Eddie Jaoude's free Github Course](https://www.eddiejaoude.io/course-github-profile/index).
   ![](./Photos/Certificates/Eddie%20Github%20Course.jpg)
