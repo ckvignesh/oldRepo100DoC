@@ -113,23 +113,32 @@ Today was also very slow. I had a busy day.
 - [Issue Raised](https://github.com/fefong/markdown_readme/issues/2).
 ***
 
-<!-- ### Day X: date, year
+### Day 6: October 31, 2021
+
+Today's the last day of #Hacktoberfest.
 
 **Today's Progress:**
-- 
+- Contributed to a simple OS Project.
+- Studied a bit of Javascript from Eloquent Javascript.
+- Drafted ideas for my Portfolio Page.
 
 **Link to work:**
-- 
+- [OS Commit](https://github.com/GabeNedden/contribute/commit/acfbbf02e2d7b103ee664bb15b03edf7456f90b0)
+- [My first Project](https://codepen.io/ckvignesh/pen/PoKpqjr)
 ***
 
-### Day X: date, year
+### Day 7: November 1, 2021
+
+Busy days ahead. But I'll spend some time doing OS Contributions though the #Hacktoberfest is officially over.
 
 **Today's Progress:**
-- 
+- Formatted some answers in an OS Repo md file & raised a PR.
+- Studied a bit of Javascript from Eloquent Javascript.
 
 **Link to work:**
-- 
-*** -->
+- [OS Commit](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes/pull/2589)
+- [OS Commit](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes/pull/2587)
+***
 
 <!-- ### Day 1: October 26, 2021
 

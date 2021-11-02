@@ -28,3 +28,18 @@ The log of my #100DaysOfCode challenge. Started on [October 25, Monday, 2021]. Y
 
 ### R1D5 October 29, 2021
 - [This markdown file you're reading now.](log.md)
+
+### R1D6 October 30, 2021
+
+- This: ![](Photos/HTML.png) <br /> and [this](https://github.com/ckvignesh/FreeCodeCamp/tree/master/Responsive%20Web%20Design/HTML).
+- [Issue Raised](https://github.com/fefong/markdown_readme/issues/2).
+
+### R1D7 October 31, 2021
+
+- [OS Commit](https://github.com/GabeNedden/contribute/commit/acfbbf02e2d7b103ee664bb15b03edf7456f90b0)
+- [My first Project](https://codepen.io/ckvignesh/pen/PoKpqjr)
+
+### R1D8 November 1, 2021
+
+- [OS Commit](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes/pull/2589)
+- [OS Commit](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes/pull/2587)
