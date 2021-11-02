@@ -1,18 +1,19 @@
 # 100 Days Of Code - Log
+## Round 1
 
 ***
 |**Round**| **Day**|                                    **Topics**                                |
 |:-------:|:------:| :---------------------------------------------------------------------------:|
-| 1       |      0 |  [CSS - fCC & flexbox froggy](#day-0-october-25-2021)                        |
-| 1       |      1 |  [CSS - fCC & grid garden](#day-1-october-26-2021)                           |
-| 1       |      2 |  [CSS - fCC & FOSS Contribution](#day-2-october-27-2021)                     |
-| 1       |      3 |  [CSS - Flexbox defense & FOSS Contribution](#day-3-october-28-2021)         |
-| 1       |      4 |  [Markdown file formatting](#day-4-october-29-2021)                          |
-| 1       |      5 |  [HTML - fCC revision](#day-5-october-30-2021)                               |
-| 1       |      6 |  [OS Contributions](#day-6-october-31-2021)                                  |
-| 1       |      7 |  [OS Contributions](#day-7-november-1-2021)                                  |
+| 1       |      1 |  [CSS - fCC & flexbox froggy](#day-0-october-25-2021)                        |
+| 1       |      2 |  [CSS - fCC & grid garden](#day-1-october-26-2021)                           |
+| 1       |      3 |  [CSS - fCC & FOSS Contribution](#day-2-october-27-2021)                     |
+| 1       |      4 |  [CSS - Flexbox defense & FOSS Contribution](#day-3-october-28-2021)         |
+| 1       |      5 |  [Markdown file formatting](#day-4-october-29-2021)                          |
+| 1       |      6 |  [HTML - fCC revision](#day-5-october-30-2021)                               |
+| 1       |      7 |  [OS Contributions](#day-6-october-31-2021)                                  |
+| 1       |      8 |  [OS Contributions](#day-7-november-1-2021)                                  |
 
-### Day 0: October 25, 2021
+### Day 1: October 25, 2021
 
 **Today's Progress:**
 - Finished the CSS Part of RWD Certification on freeCodeCamp.
@@ -27,7 +28,7 @@
 - [Flexbox Froggy](https://github.com/ckvignesh/flexboxFroggySolution)
 
 ***
-### Day 1: October 26, 2021
+### Day 2: October 26, 2021
 
 **Today's Progress:**
 - Finished 28/52 in the Applied Visual Design of RWD Certification on freeCodeCamp.
@@ -45,7 +46,7 @@
   
 ***
 
-### Day 2: October 27, 2021
+### Day 3: October 27, 2021
 
 **Today's Progress:**
 - Finished 30/52 in the Applied Visual Design of RWD Certification on freeCodeCamp.
@@ -64,7 +65,7 @@ I could do only one hour of coding today. It was a low in my graph of this chall
   
 ***
 
-### Day 3: October 28, 2021
+### Day 4: October 28, 2021
 
 **Today's Progress:**
 - Solved all 12 Levels of Flexbox Defense Game.
@@ -88,7 +89,7 @@ I could do only one hour of coding today. It was a low in my graph of this chall
   
 ***
 
-### Day 4: October 29, 2021
+### Day 5: October 29, 2021
 
 From now, my plan would be to study JS along with HTML, CSS and the rest of the RWD fCC certification. Putting off CSS games for now.
 
@@ -102,7 +103,7 @@ From now, my plan would be to study JS along with HTML, CSS and the rest of the 
 - [This markdown file you're reading now.](log.md)
 ***
 
-### Day 5: October 30, 2021
+### Day 6: October 30, 2021
 Today was also very slow. I had a busy day.
 
 **Today's Progress:**
@@ -114,7 +115,7 @@ Today was also very slow. I had a busy day.
 - [Issue Raised](https://github.com/fefong/markdown_readme/issues/2).
 ***
 
-### Day 6: October 31, 2021
+### Day 7: October 31, 2021
 
 Today's the last day of #Hacktoberfest.
 
@@ -128,7 +129,7 @@ Today's the last day of #Hacktoberfest.
 - [My first Project](https://codepen.io/ckvignesh/pen/PoKpqjr)
 ***
 
-### Day 7: November 1, 2021
+### Day 8: November 1, 2021
 
 Busy days ahead. But I'll spend some time doing OS Contributions though the #Hacktoberfest is officially over.
 
@@ -144,19 +145,3 @@ Busy days ahead. But I'll spend some time doing OS Contributions though the #Hac
 
   ![](Photos/Ebazhanov%202.png)
 ***
-
-<!-- ### Day 1: October 26, 2021
-
-**Today's Progress**: Type here
-
-**Thoughts:** Type here
-
-**Link to work:** [Here](https://codepen.io/ckvignesh/pen/PoKpqjr)
-
-### Day 2: October 27, 2021
-
-**Today's Progress**: Type here
-
-**Thoughts:** Type here
-
-**Link to work:**  -->
