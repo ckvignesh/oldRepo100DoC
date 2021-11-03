@@ -183,5 +183,5 @@ I spent my day exploring new concepts in Github and how to implement them. Inclu
 
   **Link to work:**
   - [My github home page](https://github.com/ckvignesh) <br /> ![](./Photos/Github%20Page.png) <br /> New widgets: <br /> ![](./Photos/Github%20Streak%20widget.png) <br />
-  - [My PR that's showing some error now.](https://github.com/EddieHubCommunity/awesome-github-profiles/pull/828)
+  - [My PR that's showing some error now.](https://github.com/EddieHubCommunity/awesome-github-profiles/pull/828) Update: it got resolved after a reviewer requested changes & I followed their corrections. PR Merged and closed.
   - [Template for my new website.](https://github.com/kitian616/jekyll-TeXt-theme)
