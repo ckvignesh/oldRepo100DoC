@@ -15,7 +15,8 @@
 | 1       |      9 |  [Github Profile](#day-9-november-2-2021)                                    |
 | 1       |     10 |  [Github Profile](#day-10-november-3-2021)                                   |
 
-### Day 1: October 25, 2021 - Monday
+### Day 1: October 25, 2021
+Monday
 
 **Today's Progress:**
 - Finished the CSS Part of RWD Certification on freeCodeCamp.
@@ -30,7 +31,8 @@
 - [Flexbox Froggy](https://github.com/ckvignesh/flexboxFroggySolution)
 
 ***
-### Day 2: October 26, 2021 Tuesday
+### Day 2: October 26, 2021 
+Tuesday
 
 **Today's Progress:**
 - Finished 28/52 in the Applied Visual Design of RWD Certification on freeCodeCamp.
@@ -48,7 +50,8 @@
   
 ***
 
-### Day 3: October 27, 2021 Wednesday
+### Day 3: October 27, 2021 
+Wednesday
 
 **Today's Progress:**
 - Finished 30/52 in the Applied Visual Design of RWD Certification on freeCodeCamp.
@@ -67,7 +70,8 @@ I could do only one hour of coding today. It was a low in my graph of this chall
   
 ***
 
-### Day 4: October 28, 2021 Thursday
+### Day 4: October 28, 2021 
+Thursday
 
 **Today's Progress:**
 - Solved all 12 Levels of Flexbox Defense Game.
@@ -91,7 +95,8 @@ I could do only one hour of coding today. It was a low in my graph of this chall
   
 ***
 
-### Day 5: October 29, 2021 Friday
+### Day 5: October 29, 2021 
+Friday
 
 From now, my plan would be to study JS along with HTML, CSS and the rest of the RWD fCC certification. Putting off CSS games for now.
 
@@ -105,7 +110,8 @@ From now, my plan would be to study JS along with HTML, CSS and the rest of the 
 - [This markdown file you're reading now.](log.md)
 ***
 
-### Day 6: October 30, 2021 Saturday
+### Day 6: October 30, 2021 
+Saturday
 
 Today was also very slow. I had a busy day.
 
@@ -118,7 +124,8 @@ Today was also very slow. I had a busy day.
 - [Issue Raised](https://github.com/fefong/markdown_readme/issues/2).
 ***
 
-### Day 7: October 31, 2021 Sunday
+### Day 7: October 31, 2021 
+Sunday
 
 Today's the last day of #Hacktoberfest.
 
@@ -132,7 +139,8 @@ Today's the last day of #Hacktoberfest.
 - [My first Project](https://codepen.io/ckvignesh/pen/PoKpqjr)
 ***
 
-### Day 8: November 1, 2021 Monday
+### Day 8: November 1, 2021 
+Monday
 
 Busy days ahead. But I'll spend some time doing OS Contributions though the #Hacktoberfest is officially over.
 
@@ -150,7 +158,8 @@ Busy days ahead. But I'll spend some time doing OS Contributions though the #Hac
   ![](Photos/Ebazhanov%202.png)
 ***
 
-### Day 9: November 2, 2021 Tuesday
+### Day 9: November 2, 2021 
+Tuesday
 
 I spent my day exploring new concepts in Github and how to implement them. Included a small test project that I'll be enhancing later in this challenge. My github page looks like this, now.
 ![](./Photos/Git%20Page%202%20Nov%202021.png)
@@ -172,7 +181,8 @@ I spent my day exploring new concepts in Github and how to implement them. Inclu
 - The changes in submodules won't be shown in the parent module unless they are added and committed. Like this. <br /> Before: ![](./Photos/Submodules%20before.png) <br /> and After: <br /> ![](./Photos/Submodules%20after.png)
   
   ***
-  ### Day 10: November 3, 2021 Wednesday
+  ### Day 10: November 3, 2021 
+  Wednesday
 
   Today was a hectic day as I spent a lot of time exploring new things. I wrote an article and committed to the 2 articles per week challenge.
 
