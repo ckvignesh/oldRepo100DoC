@@ -14,6 +14,7 @@
 | 1       |      8 |  [OS Contributions](#day-8-november-1-2021)                                  |
 | 1       |      9 |  [Github Profile](#day-9-november-2-2021)                                    |
 | 1       |     10 |  [Github Profile](#day-10-november-3-2021)                                   |
+| 1       |     11 |  [Github Profile](#day-11-november-4-2021)                                   |
 
 ### Day 1: October 25, 2021
 Monday
@@ -181,17 +182,37 @@ I spent my day exploring new concepts in Github and how to implement them. Inclu
 - The changes in submodules won't be shown in the parent module unless they are added and committed. Like this. <br /> Before: ![](./Photos/Submodules%20before.png) <br /> and After: <br /> ![](./Photos/Submodules%20after.png)
   
   ***
-  ### Day 10: November 3, 2021 
-  Wednesday
+### Day 10: November 3, 2021 
+Wednesday
 
-  Today was a hectic day as I spent a lot of time exploring new things. I wrote an article and committed to the 2 articles per week challenge.
+Today was a hectic day as I spent a lot of time exploring new things. I wrote an article and committed to the 2 articles per week challenge.
 
-  **Today's Progress:**
-  - Scoured through some Github Profiles and revamped my profile to make it look better.
-  - Raised a PR to merge my Github Profile in the list of awesome [Github Profiles](https://github.com/EddieHubCommunity/awesome-github-profiles).
-  - Shortlisted a template in Jekyll to create my [new website](https://ckvignesh.github.io/). Shelved the old one & kept it aside just for documenting.
+**Today's Progress:**
+- Scoured through some Github Profiles and revamped my profile to make it look better.
+- Raised a PR to merge my Github Profile in the list of awesome [Github Profiles](https://github.com/EddieHubCommunity/awesome-github-profiles).
+- Shortlisted a template in Jekyll to create my [new website](https://ckvignesh.github.io/). Shelved the old one & kept it aside just for documenting.
 
-  **Link to work:**
-  - [My github home page](https://github.com/ckvignesh) <br /> ![](./Photos/Github%20Page.png) <br /> New widgets: <br /> ![](./Photos/Github%20Streak%20widget.png) <br />
-  - [My PR that's showing some error now.](https://github.com/EddieHubCommunity/awesome-github-profiles/pull/828) Update: it got resolved after a reviewer requested changes & I followed their corrections. PR Merged and closed.
-  - [Template for my new website.](https://github.com/kitian616/jekyll-TeXt-theme)
+**Link to work:**
+- [My github home page](https://github.com/ckvignesh) <br /> ![](./Photos/Github%20Page.png) <br /> New widgets: <br /> ![](./Photos/Github%20Streak%20widget.png) <br />
+- [My PR that's showing some error now.](https://github.com/EddieHubCommunity/awesome-github-profiles/pull/828) Update: it got resolved after a reviewer requested changes & I followed their corrections. PR Merged and closed.
+- [Template for my new website.](https://github.com/kitian616/jekyll-TeXt-theme)
+
+***
+### Day 11: November 4, 2021 
+Thursday
+
+Felt burntout as I spent most of my first half coding. Learnt to use the automated kanban board in Github Projects. Started one for my portfolio and resume page after I finalised my themes and another to work on my Github Landing Page.
+It looked like this before I started work on my Jekyll websites <br /> ![](Photos/Github%20Page.png). Here, CSS was the most used language. Now, things have changed due to my new projects. <br /> ![](Photos/Nov%204%20Github%20Page.png) <br /> But, I've decided to go ahead with React for my portfolio page. Only the Resume Page and the Under Construction Page will be in Jekyll.
+
+**Today's Progress:**
+- Built an Under Construction Page for my upcoming website.
+- Started using Github Projects and learnt how automated Kanban works. Broke down tasks for Resume Page & Github Landing Page.
+- Working on my resume page. Added data after studying the Jekyll Page Template. Have to make more customizations.
+
+**Link to work:**
+- Under Construction Page for my [upcoming website](http://ckvignesh.github.io/). Take a look, here: <br /> ![](Photos/Under%20Construction.png)
+- Work in progress [Resume Page](http://ckvignesh.github.io/resume).
+- Github Project Board (will reveal once the main portfolio site is aired).
+
+***
+
