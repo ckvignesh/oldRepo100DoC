@@ -201,7 +201,7 @@ Today was a hectic day as I spent a lot of time exploring new things. I wrote an
 ### Day 11: November 4, 2021 
 Thursday
 
-Felt burntout as I spent most of my first half coding. Learnt to use the automated kanban board in Github Projects. Started one for my portfolio and resume page after I finalised my themes and another to work on my Github Landing Page.
+Felt burntout as I spent most of today's first half coding. Learnt to use the automated kanban board in Github Projects. Started one for my portfolio and resume page after I finalised my themes and another to work on my Github Landing Page.
 It looked like this before I started work on my Jekyll websites <br /> ![](Photos/Github%20Page.png). Here, CSS was the most used language. Now, things have changed due to my new projects. <br /> ![](Photos/Nov%204%20Github%20Page.png) <br /> But, I've decided to go ahead with React for my portfolio page. Only the Resume Page and the Under Construction Page will be in Jekyll.
 
 **Today's Progress:**
