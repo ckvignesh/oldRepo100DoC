@@ -216,3 +216,16 @@ It looked like this before I started work on my Jekyll websites <br /> ![](Photo
 
 ***
 
+### Day 12: November 5, 2021 
+Friday
+
+Started discovering and researching on Gatsby. Cleared the old Jekyll Template for the main site.
+
+**Today's Progress:**
+- Finished Day 1 of 30 Days of JS by Asabeneh
+- Studied how Gatsby Pages are made
+
+**Link to work:**
+- The answers of Day 1 of 30 Days of JS are [here](./Projects/30-Days-Of-JavaScript/01_Day_Introduction/day1Answers)
+
+***
