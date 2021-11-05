@@ -15,6 +15,7 @@
 | 1       |      9 |  [Github Profile](#day-9-november-2-2021)                                    |
 | 1       |     10 |  [Github Profile](#day-10-november-3-2021)                                   |
 | 1       |     11 |  [Github Profile](#day-11-november-4-2021)                                   |
+| 1       |     12 |  [JS Day 1](#day-12-november-5-2021)                                         |
 
 ### Day 1: October 25, 2021
 Monday
@@ -226,6 +227,6 @@ Started discovering and researching on Gatsby. Cleared the old Jekyll Template f
 - Studied how Gatsby Pages are made
 
 **Link to work:**
-- The answers of Day 1 of 30 Days of JS are [here](./Projects/30-Days-Of-JavaScript/01_Day_Introduction/day1Answers)
+- The answers of Day 1 of 30 Days of JS are [here](https://github.com/ckvignesh/30-Days-Of-JavaScript/tree/answers/01_Day_Introduction/day1Answers).
 
 ***
