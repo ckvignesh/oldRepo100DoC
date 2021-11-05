@@ -7,3 +7,6 @@
 [submodule "Projects/ckvignesh"]
 	path = Projects/ckvignesh
 	url = https://github.com/ckvignesh/ckvignesh.git
+[submodule "Projects/30-Days-Of-JavaScript"]
+	path = Projects/30-Days-Of-JavaScript
+	url = https://github.com/ckvignesh/30-Days-Of-JavaScript.git
