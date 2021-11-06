@@ -242,3 +242,16 @@ Polished my resume website and its ready for Production.
 **Link to work:**
 - Resume Website is [here](https://github.com/ckvignesh/resume).
 - Sample Gatsby Website is on the test branch in this Repo [here](https://github.com/ckvignesh/ckvignesh.github.io/tree/testBranch).
+
+***
+
+### Day 13: November 7, 2021 
+Sunday
+
+**Today's Progress:**
+-
+
+**Link to work:**
+- 
+
+***
