@@ -1,12 +1,11 @@
 # Skills
-# Organizational leadership
-- skill: Organizational leadership
-  description: I have several years of experience leading organziations from community groups to business departments. From public speaking, to mentoring, to coordination of people and events, I can lead in any context.
-
 # Communications strategy
-- skill: Communications strategy
-  description: Content and marketing strategy,
+- skill: Web Development
+  description: <ul class="resume-item-list"><li>Front-end Web Development using HTML, CSS, NodeJS and React</li><li>Wordpress</li></ul>
 
 # Digital content development and creation
-- skill: Digital content development and creation
-  description: Copy writing, graphic design, web design, front-end web development, print design.
+- skill: Web content development, curation and creation
+  description: <ul class="resume-item-list"><li>Content writing & Strategy</li><li>Copywriting</li><li>Proof Reading & Editing</li></ul>
+
+- skill: Communication Strategy
+  description:

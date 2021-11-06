@@ -9,9 +9,9 @@ sass:
   style: compressed
 
 # Resume settings
-resume_avatar: "true"
+resume_avatar: false
 resume_name: "C K Vignesh"
-resume_title: "Programmer"
+resume_title: "Project Co-Ordinator & Programmer"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email: "vigneshckprakash@gmail.com"
@@ -37,9 +37,9 @@ resume_section_experience: true
 resume_section_education: true
 resume_section_projects: true
 resume_section_skills: true
-resume_section_recognition: true
-resume_section_links: true
-resume_section_associations: true
+resume_section_recognition: false
+resume_section_links: false
+resume_section_associations: false
 # resume_section_interests:       true
 
 # Resume social links
