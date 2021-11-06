@@ -230,3 +230,15 @@ Started discovering and researching on Gatsby. Cleared the old Jekyll Template f
 - The answers of Day 1 of 30 Days of JS are [here](https://github.com/ckvignesh/30-Days-Of-JavaScript/tree/answers/01_Day_Introduction/day1Answers).
 
 ***
+### Day 13: November 6, 2021 
+Saturday
+
+Polished my resume website and its ready for Production.
+
+**Today's Progress:**
+- Completed my Resume Website upto a great level & it's now worth showing. But, the development on it will be a continuous process.
+- Built a sample gatsby website just to know how it works.
+
+**Link to work:**
+- Resume Website is [here](https://github.com/ckvignesh/resume).
+- Sample Gatsby Website is on the test branch in this Repo [here](https://github.com/ckvignesh/ckvignesh.github.io/tree/testBranch).
