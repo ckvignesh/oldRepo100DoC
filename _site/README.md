@@ -1,1 +1,1 @@
-A simple resume website. Hosted [version](www.ckvignesh.github.io/resume).
+A simple resume website. Hosted [version](resume.ckvignesh.me).
