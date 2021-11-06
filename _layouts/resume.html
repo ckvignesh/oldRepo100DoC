@@ -127,7 +127,9 @@
           <ul class="resume-item-list">
             {% for link in site.data.links %}
             <li>
-              <a href="{{" link.url }} itemprop="url">{{ link.description }}</a>
+              <a href="{{" link.url }} itemprop="url" target="_blank"
+                >{{ link.description }}</a
+              >
             </li>
             {% endfor %}
           </ul>
@@ -214,7 +216,9 @@
           itemtype="http://schema.org/Organization"
         >
           <h3 class="resume-item-title" itemprop="name">
-            {% if association.url %}<a href="{{ association.url }}"
+            {% if association.url %}<a
+              href="{{ association.url }}"
+              target="_blank"
               >{{ association.organization }}</a
             >{% else %}{{ association.organization }}{% endif %}
           </h3>
