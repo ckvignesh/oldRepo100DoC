@@ -1,16 +1,8 @@
 # Projects
-# uncomment the urls if you wish to display them, and add your own URL
 
-# jazznotes.io
+# Academic Project
 - project: Web Application for Courier Companies [Academic Project]
   role: Developer
-  duration: 2012 &mdash; Present
+  duration: September 2020 &mdash; January 2020
   # url: "#"
   description: A simple PHP Website that used SQL at the backend to manage, track and monitor couriers for courier companies.
-  #
-# Springfield Community Outreach Group
-# - project: Springfield Community Outreach Group
-#   role: Co-Founder & Organizer
-#   duration: 2007 &mdash; Present
-#   # url: "#"
-#   description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
