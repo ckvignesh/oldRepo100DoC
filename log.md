@@ -249,9 +249,29 @@ Polished my resume website and its ready for Production.
 Sunday
 
 **Today's Progress:**
--
+- Worked on my Resume Page
 
 **Link to work:**
-- 
+- Resume Website is [here](https://github.com/ckvignesh/resume).
 
 ***
+
+### Day 14: November 8, 2021 
+Monday
+
+**Today's Progress:**
+- Added the Hashnode Logo and link to my Resume Website.
+
+**Link to work:**
+- Resume Website is [here](https://github.com/ckvignesh/resume).
+
+***
+
+### Day 15: November 9, 2021 
+Tuesday
+
+**Today's Progress:**
+- Resolved a bug on my Resume Website. The links were not working properly.
+
+**Link to work:**
+- Resume Website is [here](https://github.com/ckvignesh/resume).
