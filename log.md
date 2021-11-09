@@ -276,6 +276,8 @@ Tuesday
 
 **Today's Progress:**
 - Resolved a bug on my Resume Website. The links were not working properly.
+- Raised a PR for Linkfree and made necessary changes.
 
 **Link to work:**
 - Resume Website is [here](https://github.com/ckvignesh/resume).
+- [Pull Request](https://github.com/EddieHubCommunity/LinkFree/pull/652) for Linkfree.
