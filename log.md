@@ -16,6 +16,10 @@
 | 1       |     10 |  [Github Profile](#day-10-november-3-2021)                                   |
 | 1       |     11 |  [Github Profile](#day-11-november-4-2021)                                   |
 | 1       |     12 |  [JS Day 1](#day-12-november-5-2021)                                         |
+| 1       |     13 |  [JS Day 2](#day-13-november-6-2021)                                         |
+| 1       |     14 |  [Resume Page](#day-14-november-7-2021)                                      |
+| 1       |     15 |  [Resume Page](#day-15-november-8-2021)                                      |
+| 1       |     16 |  [Resume Page](#day-16-november-9-2021)                                      |
 
 ### Day 1: October 25, 2021
 Monday
@@ -245,7 +249,7 @@ Polished my resume website and its ready for Production.
 
 ***
 
-### Day 13: November 7, 2021 
+### Day 14: November 7, 2021 
 Sunday
 
 **Today's Progress:**
@@ -256,7 +260,7 @@ Sunday
 
 ***
 
-### Day 14: November 8, 2021 
+### Day 15: November 8, 2021 
 Monday
 
 **Today's Progress:**
@@ -267,7 +271,7 @@ Monday
 
 ***
 
-### Day 15: November 9, 2021 
+### Day 16: November 9, 2021 
 Tuesday
 
 **Today's Progress:**
