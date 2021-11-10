@@ -10,3 +10,6 @@
 [submodule "Projects/30-Days-Of-JavaScript"]
 	path = Projects/30-Days-Of-JavaScript
 	url = https://github.com/ckvignesh/30-Days-Of-JavaScript.git
+[submodule "operationRelevel"]
+	path = operationRelevel
+	url = https://github.com/ckvignesh/operationRelevel.git
