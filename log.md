@@ -21,7 +21,7 @@
 | 1       |     15 |  [Resume Page](#day-15-november-8-2021)                                      |
 | 1       |     16 |  [Resume Page](#day-16-november-9-2021)                                      |
 | 1       |     17 |  [Pull Request](#day-17-november-10-2021)                                    |
-| 1       |     18 |  [Resume Page](#day-18-november-10-2021)                                     |
+| 1       |     18 |  [Resume Page](#day-18-november-11-2021)                                     |
 
 ### Day 1: October 25, 2021
 Monday
@@ -297,7 +297,7 @@ Wednesday
 - [Pull Request](https://github.com/EddieHubCommunity/LinkFree/pull/652) for Linkfree. It's currently accepted.
 
 ***
-### Day 18: November 10, 2021 
+### Day 18: November 11, 2021 
 Thursday
 
 **Today's Progress:**
