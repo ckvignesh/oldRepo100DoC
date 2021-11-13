@@ -22,6 +22,9 @@
 | 1       |     16 |  [Resume Page](#day-16-november-9-2021)                                      |
 | 1       |     17 |  [Pull Request](#day-17-november-10-2021)                                    |
 | 1       |     18 |  [Resume Page](#day-18-november-11-2021)                                     |
+| 1       |    nil |  [Break](#november-12-2021)                                                  |
+| 1       |     19 |  [Gatsby](#day-19-november-13-2021)                                          |
+
 
 ### Day 1: October 25, 2021
 Monday
@@ -307,5 +310,20 @@ Thursday
 **Link to work:**
 - [Working Branch](https://github.com/ckvignesh/ckvignesh.github.io/tree/construction).
 - Resume Website is [here](https://github.com/ckvignesh/resume).
+
+***
+
+### November 12, 2021 
+Friday
+
+This is the first day I am taking a break from coding.
+
+***
+
+### Day 19: November 13, 2021 
+Saturday
+
+**Today's Progress:**
+- Explored more of Gatsby & read a bit from Eloquent JavaScript.
 
 ***
