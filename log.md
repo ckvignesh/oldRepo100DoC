@@ -2,28 +2,28 @@
 ## Round 1
 
 ***
-|**Round**| **Day**|                                    **Topics**                                |
-|:-------:|:------:| :---------------------------------------------------------------------------:|
-| 1       |      1 |  [CSS - fCC & flexbox froggy](#day-1-october-25-2021)                        |
-| 1       |      2 |  [CSS - fCC & grid garden](#day-2-october-26-2021)                           |
-| 1       |      3 |  [CSS - fCC & FOSS Contribution](#day-3-october-27-2021)                     |
-| 1       |      4 |  [CSS - Flexbox defense & FOSS Contribution](#day-4-october-28-2021)         |
-| 1       |      5 |  [Markdown file formatting](#day-5-october-29-2021)                          |
-| 1       |      6 |  [HTML - fCC revision](#day-6-october-30-2021)                               |
-| 1       |      7 |  [OS Contributions](#day-7-october-31-2021)                                  |
-| 1       |      8 |  [OS Contributions](#day-8-november-1-2021)                                  |
-| 1       |      9 |  [Github Profile](#day-9-november-2-2021)                                    |
-| 1       |     10 |  [Github Profile](#day-10-november-3-2021)                                   |
-| 1       |     11 |  [Github Profile](#day-11-november-4-2021)                                   |
-| 1       |     12 |  [JS Day 1](#day-12-november-5-2021)                                         |
-| 1       |     13 |  [JS Day 2](#day-13-november-6-2021)                                         |
-| 1       |     14 |  [Resume Page](#day-14-november-7-2021)                                      |
-| 1       |     15 |  [Resume Page](#day-15-november-8-2021)                                      |
-| 1       |     16 |  [Resume Page](#day-16-november-9-2021)                                      |
-| 1       |     17 |  [Pull Request](#day-17-november-10-2021)                                    |
-| 1       |     18 |  [Resume Page](#day-18-november-11-2021)                                     |
-| 1       |    nil |  [Break](#november-12-2021)                                                  |
-| 1       |     19 |  [Gatsby](#day-19-november-13-2021)                                          |
+| **Round** | **Day** |                             **Topics**                              |
+| :-------: | :-----: | :-----------------------------------------------------------------: |
+|     1     |    1    |        [CSS - fCC & flexbox froggy](#day-1-october-25-2021)         |
+|     1     |    2    |          [CSS - fCC & grid garden](#day-2-october-26-2021)          |
+|     1     |    3    |       [CSS - fCC & FOSS Contribution](#day-3-october-27-2021)       |
+|     1     |    4    | [CSS - Flexbox defense & FOSS Contribution](#day-4-october-28-2021) |
+|     1     |    5    |         [Markdown file formatting](#day-5-october-29-2021)          |
+|     1     |    6    |            [HTML - fCC revision](#day-6-october-30-2021)            |
+|     1     |    7    |             [OS Contributions](#day-7-october-31-2021)              |
+|     1     |    8    |             [OS Contributions](#day-8-november-1-2021)              |
+|     1     |    9    |              [Github Profile](#day-9-november-2-2021)               |
+|     1     |   10    |              [Github Profile](#day-10-november-3-2021)              |
+|     1     |   11    |              [Github Profile](#day-11-november-4-2021)              |
+|     1     |   12    |                 [JS Day 1](#day-12-november-5-2021)                 |
+|     1     |   13    |                 [JS Day 2](#day-13-november-6-2021)                 |
+|     1     |   14    |               [Resume Page](#day-14-november-7-2021)                |
+|     1     |   15    |               [Resume Page](#day-15-november-8-2021)                |
+|     1     |   16    |               [Resume Page](#day-16-november-9-2021)                |
+|     1     |   17    |              [Pull Request](#day-17-november-10-2021)               |
+|     1     |   18    |               [Resume Page](#day-18-november-11-2021)               |
+|     1     |   nil   |                     [Break](#november-12-2021)                      |
+|     1     |   19    |                 [Gatsby](#day-19-november-13-2021)                  |
 
 
 ### Day 1: October 25, 2021
