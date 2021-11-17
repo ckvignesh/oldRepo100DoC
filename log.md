@@ -327,3 +327,6 @@ Saturday
 - Explored more of Gatsby & read a bit from Eloquent JavaScript.
 
 ***
+
+## Day 20: November 14, 2021
+
