@@ -26,6 +26,7 @@
 |     1     |   19    |                 [Gatsby](#day-19-november-13-2021)                  |
 
 
+
 ### Day 1: October 25, 2021
 Monday
 
@@ -33,7 +34,7 @@ Monday
 - Finished the CSS Part of RWD Certification on freeCodeCamp.
 - Finished Flexboxfroggy Level 24.
 
-**Thoughts:** 
+**Thoughts:**
 - This was a bit challenging. But, I could go through this quite soon because I had some experience with CSS before.
 - I had completed 23 levels of FlexboxFroggy before. But I was stuck at the 24th level. Today, I completed it and made it as a Repo with proof.
 
@@ -42,7 +43,7 @@ Monday
 - [Flexbox Froggy](https://github.com/ckvignesh/flexboxFroggySolution)
 
 ***
-### Day 2: October 26, 2021 
+### Day 2: October 26, 2021
 Tuesday
 
 **Today's Progress:**
@@ -50,18 +51,18 @@ Tuesday
 - Finished all the levels of Grid Garden game.
 - Learnt that "***" is used for drawing a line in the markdown.
 
-**Thoughts:** 
-- Some concepts were totally new for me. I also realized that I made some stupid mistakes due to leaving extra spaces. 
+**Thoughts:**
+- Some concepts were totally new for me. I also realized that I made some stupid mistakes due to leaving extra spaces.
 - I completed all 28 levels of Grid Garden. But I was stuck at the 28th level. I had to take some help to understand it better. I faced difficulty in the 26th level too but I could solve it on my own. Therefore, I will repeat the last few levels of this game again tomorrow.
 
 **Link to work:**
 - [Responsive Web Design](https://github.com/ckvignesh/FreeCodeCamp/tree/master/Responsive%20Web%20Design/CSS)
 - [Grid Garden](https://github.com/ckvignesh/gridGardenSolution)
 - The [Markdown](https://github.com/ckvignesh/100-days-of-code/blob/master/log.md) file that you're now viewing.
-  
+
 ***
 
-### Day 3: October 27, 2021 
+### Day 3: October 27, 2021
 Wednesday
 
 **Today's Progress:**
@@ -69,7 +70,7 @@ Wednesday
 - Made an Open Source contribution in the Open Product Management Repo.
 - Studied the use of Var, Let and Const in JS.
 
-**Thoughts:** 
+**Thoughts:**
 I could do only one hour of coding today. It was a low in my graph of this challenge. Nor did I play any code game.
 - Learnt how to use the Hue and transparency adjustments in CSS from the freeCodeCamp course.
 - Made my second Open Source contribution in the Open Product Management Repo. Added some missing links and raised a PR. Waiting for its status to get updated.
@@ -78,10 +79,10 @@ I could do only one hour of coding today. It was a low in my graph of this chall
 **Link to work:**
 - [Responsive Web Design](https://github.com/ckvignesh/FreeCodeCamp/tree/master/Responsive%20Web%20Design/Applied%20Visual%20Design)
 - [Open Product Management Pull Request](https://github.com/ProductHired/open-product-management/pull/100)
-  
+
 ***
 
-### Day 4: October 28, 2021 
+### Day 4: October 28, 2021
 Thursday
 
 **Today's Progress:**
@@ -91,7 +92,7 @@ Thursday
 - Added some features to a public Repo.
 - Learnt about the break tag and code notation(``) in Markdown.
 
-**Thoughts:** 
+**Thoughts:**
 - After enough practise, CSS Games have become easy to solve. Now I must focus more on making some real projects. I can schedule games for weekends or during any other free time.
 - I got a PR from an online friend who's also studying coding with me. Doing Open Source has taught me a lot and I could also review and edit code, handle issues and merge the PR.
 - I added a small part to the documentation by specifying that the program could be run on any port by adding the number before it.
@@ -103,10 +104,10 @@ Thursday
 - The Pull Requests: ![](Photos/Pull%20Requests%201.png)
 - [Open Source Contribution](https://github.com/akramkazmi71/hacktoberfest-xrepos/pull/61). It was accepted, too! Check this: ![](/Photos/PR%20Merged%201.png)
 - [Quiz Repo Display edits](https://github.com/ckvignesh/quizz-game/commits/Suggestions) and [Quiz Repo Logic edits](https://github.com/ckvignesh/quizz-game/commits/nonNegativeMarking).
-  
+
 ***
 
-### Day 5: October 29, 2021 
+### Day 5: October 29, 2021
 Friday
 
 From now, my plan would be to study JS along with HTML, CSS and the rest of the RWD fCC certification. Putting off CSS games for now.
@@ -114,14 +115,14 @@ From now, my plan would be to study JS along with HTML, CSS and the rest of the 
 **Today's Progress:**
 - Learnt more features of Markdown files like adding index tables, sectional link, aligning text in boxes etc.
 
-**Thoughts:** 
-- Today's progress was very slow and poor. 
+**Thoughts:**
+- Today's progress was very slow and poor.
 
 **Link to work:**
 - [This markdown file you're reading now.](log.md)
 ***
 
-### Day 6: October 30, 2021 
+### Day 6: October 30, 2021
 Saturday
 
 Today was also very slow. I had a busy day.
@@ -135,7 +136,7 @@ Today was also very slow. I had a busy day.
 - [Issue Raised](https://github.com/fefong/markdown_readme/issues/2).
 ***
 
-### Day 7: October 31, 2021 
+### Day 7: October 31, 2021
 Sunday
 
 Today's the last day of #Hacktoberfest.
@@ -150,7 +151,7 @@ Today's the last day of #Hacktoberfest.
 - [My first Project](https://codepen.io/ckvignesh/pen/PoKpqjr)
 ***
 
-### Day 8: November 1, 2021 
+### Day 8: November 1, 2021
 Monday
 
 Busy days ahead. But I'll spend some time doing OS Contributions though the #Hacktoberfest is officially over.
@@ -169,7 +170,7 @@ Busy days ahead. But I'll spend some time doing OS Contributions though the #Hac
   ![](Photos/Ebazhanov%202.png)
 ***
 
-### Day 9: November 2, 2021 
+### Day 9: November 2, 2021
 Tuesday
 
 I spent my day exploring new concepts in Github and how to implement them. Included a small test project that I'll be enhancing later in this challenge. My github page looks like this, now.
@@ -190,9 +191,9 @@ I spent my day exploring new concepts in Github and how to implement them. Inclu
 **Learning:**
 - Github Submodules that I documented [here](https://vigneshck-online.codes/github-submodules-and-how-you-can-use-them-for-your-projects).
 - The changes in submodules won't be shown in the parent module unless they are added and committed. Like this. <br /> Before: ![](./Photos/Submodules%20before.png) <br /> and After: <br /> ![](./Photos/Submodules%20after.png)
-  
+
   ***
-### Day 10: November 3, 2021 
+### Day 10: November 3, 2021
 Wednesday
 
 Today was a hectic day as I spent a lot of time exploring new things. I wrote an article and committed to the 2 articles per week challenge.
@@ -208,7 +209,7 @@ Today was a hectic day as I spent a lot of time exploring new things. I wrote an
 - [Template for my new website.](https://github.com/kitian616/jekyll-TeXt-theme)
 
 ***
-### Day 11: November 4, 2021 
+### Day 11: November 4, 2021
 Thursday
 
 Felt burntout as I spent most of today's first half coding. Learnt to use the automated kanban board in Github Projects. Started one for my portfolio and resume page after I finalised my themes and another to work on my Github Landing Page.
@@ -226,7 +227,7 @@ It looked like this before I started work on my Jekyll websites <br /> ![](Photo
 
 ***
 
-### Day 12: November 5, 2021 
+### Day 12: November 5, 2021
 Friday
 
 Started discovering and researching on Gatsby. Cleared the old Jekyll Template for the main site.
@@ -239,7 +240,7 @@ Started discovering and researching on Gatsby. Cleared the old Jekyll Template f
 - The answers of Day 1 of 30 Days of JS are [here](https://github.com/ckvignesh/30-Days-Of-JavaScript/tree/answers/01_Day_Introduction/day1Answers).
 
 ***
-### Day 13: November 6, 2021 
+### Day 13: November 6, 2021
 Saturday
 
 Polished my resume website and its ready for Production.
@@ -254,7 +255,7 @@ Polished my resume website and its ready for Production.
 
 ***
 
-### Day 14: November 7, 2021 
+### Day 14: November 7, 2021
 Sunday
 
 **Today's Progress:**
@@ -265,7 +266,7 @@ Sunday
 
 ***
 
-### Day 15: November 8, 2021 
+### Day 15: November 8, 2021
 Monday
 
 **Today's Progress:**
@@ -276,7 +277,7 @@ Monday
 
 ***
 
-### Day 16: November 9, 2021 
+### Day 16: November 9, 2021
 Tuesday
 
 **Today's Progress:**
@@ -289,7 +290,7 @@ Tuesday
 
 ***
 
-### Day 17: November 10, 2021 
+### Day 17: November 10, 2021
 Wednesday
 
 **Today's Progress:**
@@ -300,7 +301,7 @@ Wednesday
 - [Pull Request](https://github.com/EddieHubCommunity/LinkFree/pull/652) for Linkfree. It's currently accepted.
 
 ***
-### Day 18: November 11, 2021 
+### Day 18: November 11, 2021
 Thursday
 
 **Today's Progress:**
@@ -313,14 +314,14 @@ Thursday
 
 ***
 
-### November 12, 2021 
+### November 12, 2021
 Friday
 
 This is the first day I am taking a break from coding.
 
 ***
 
-### Day 19: November 13, 2021 
+### Day 19: November 13, 2021
 Saturday
 
 **Today's Progress:**
@@ -330,3 +331,4 @@ Saturday
 
 ## Day 20: November 14, 2021
 
+<!-- test  -->
