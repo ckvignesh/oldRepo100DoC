@@ -329,6 +329,4 @@ Saturday
 
 ***
 
-## Day 20: November 14, 2021
-
-<!-- test  -->
+<!-- ## Day 20: November 14, 2021 -->
