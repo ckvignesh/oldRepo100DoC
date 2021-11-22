@@ -23,7 +23,7 @@
 |     1     |   17    |              [Pull Request](#day-17-november-10-2021)               |
 |     1     |   18    |               [Resume Page](#day-18-november-11-2021)               |
 |     1     |   nil   |                     [Break](#november-12-2021)                      |
-|     1     |   19    |                 [Gatsby](#day-19-november-13-2021)                  |
+|     1     |   19    |                                                                     |
 
 
 
@@ -321,7 +321,7 @@ This is the first day I am taking a break from coding.
 
 ***
 
-### Day 19: November 13, 2021
+### November 13, 2021
 Saturday
 
 **Today's Progress:**
@@ -329,5 +329,57 @@ Saturday
 
 ***
 
-<!-- ## Day 20: November 14, 2021 -->
-<!-- test -->
+### November 14, 2021 - November 16, 2021 
+- Break
+
+***
+
+### November 17, 2021
+Wednesday
+
+**Today's Progress:**
+- Worked on improving the @iamfreeCodeCamp project.
+- Re-worked on fCC Responsive Web Design Cert.
+
+***
+
+### November 18, 2021
+- Break
+
+***
+
+### November 19, 2021
+Friday
+
+**Today's Progress:**
+- Worked on Javascript Exercises of freeCodeCamp (continuing from where I left off)
+
+***
+
+### November 20, 2021
+Saturday
+
+**Today's Progress:**
+- Worked on the suggestions made on the @iamfreeCodeCamp project's PR.
+
+***
+
+### November 21, 2021
+Sunday
+
+**Today's Progress:**
+- Worked on the new suggestions made on the @iamfreeCodeCamp project's PR.
+
+### November 22, 2021
+- Planning on week's Progress. Going to reset my progress back to Day 18. So, November 23, 2021 will be Day 19.
+
+***
+
+### Day 19: November 23, 2021
+Tuesday
+
+**Today's Progress:**
+- 
+
+**Link to work:**
+-
