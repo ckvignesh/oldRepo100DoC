@@ -379,7 +379,6 @@ Sunday
 Tuesday
 
 **Today's Progress:**
-- 
+- Continuing freeCodeCamp's RWD
 
-**Link to work:**
--
+***
