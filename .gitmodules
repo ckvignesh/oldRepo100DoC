@@ -13,3 +13,6 @@
 [submodule "operationRelevel"]
 	path = operationRelevel
 	url = https://github.com/ckvignesh/operationRelevel.git
+[submodule "hashnodeBlogs"]
+	path = hashnodeBlogs
+	url = https://github.com/ckvignesh/hashnodeBlogs.git
